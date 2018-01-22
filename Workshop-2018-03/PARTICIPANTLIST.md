@@ -1,1 +1,30 @@
+# Organizers
+
+Name                      |   email                     | Oral / Poster/ attendee | Confirmed coming?    
+--------------------------|-----------------------------|-------------------------|-----------
+Falk Amelung              | famelung@rsmas.miami.edu    | Organizer               | Yes
+Brian Mapes               | mapes@miami.edu             | Organizer               | Yes
+Wei-Ming Tsai             | wei-ming.tsai@rsmas.miami.edu| Assisting Organizers   | Yes
+
+# Scientific advisory committee members
+Name                      |   email                     | Oral / Poster/ attendee | Confirmed coming?    
+--------------------------|-----------------------------|-------------------------|-----------
+Rob Kursinski | <ekursinski@gmail.com>          | | Yes?
+John Braun | <braunj@ucar.edu>                  | | No
+Matthew Igel | <migel@ucdavis.edu>              | | Yes
+Ramon Hanssen | <R.F.Hanssen@tudelft.nl>        | | Yes?
+Zhenhong Li | <Zhenhong.Li@ges.gla.ac.uk>       | | Yes?
+Paquita Zuidema | <pzuidema@rsmas.miami.edu>    | | Yes
+David Adams | <dave.k.adams@gmail.com>          | | Yes?
+Giovanni Nico | <g.nico@ba.iac.cnr.it>          | | Yes?
+Jens Wickert | <wickert@gfz-potsdam.de>         | | Yes?
+James Foster | <jfoster@soest.hawaii.edu>       | | Yes?
+
+# Interested respondents and attendees
+Name                      |   email                     | Oral / Poster/ attendee | Confirmed coming?    
+--------------------------|-----------------------------|-------------------------|-----------
+Emre Havazli | <e.havazli@rsmas.miami.edu>        | | yes
+Jim Means | <jim@weatherextreme.com>              | | 
+Paul Rosen | <Paul.A.Rosen@jpl.nasa.gov>          | | morning 1
+
 
