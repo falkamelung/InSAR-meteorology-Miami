@@ -26,5 +26,6 @@ Name                      |   email                     | Oral / Poster/ attende
 Emre Havazli | <e.havazli@rsmas.miami.edu>        | | yes
 Jim Means | <jim@weatherextreme.com>              | | 
 Paul Rosen | <Paul.A.Rosen@jpl.nasa.gov>          | | morning 1
+Pierre Briole | <briole@ens.fr>                   | abstract received | hope so
 
 
