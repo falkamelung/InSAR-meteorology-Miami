@@ -27,5 +27,6 @@ Emre Havazli | <e.havazli@rsmas.miami.edu>        | | yes
 Jim Means | <jim@weatherextreme.com>              | | 
 Paul Rosen | <Paul.A.Rosen@jpl.nasa.gov>          | | morning 1
 Pierre Briole | <briole@ens.fr>                   | abstract received | hope so
+Shu-Hua Chen | <shachen@ucdavis.edu>              | abstract recd     | yes
 
 
