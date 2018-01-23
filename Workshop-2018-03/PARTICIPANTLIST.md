@@ -17,7 +17,7 @@ Zhenhong Li | <Zhenhong.Li@ges.gla.ac.uk>       | | Yes?
 Paquita Zuidema | <pzuidema@rsmas.miami.edu>    | | Yes
 David Adams | <dave.k.adams@gmail.com>          | | Yes?
 Giovanni Nico | <g.nico@ba.iac.cnr.it>          | | Yes?
-Jens Wickert | <wickert@gfz-potsdam.de>         | | Yes?
+Jens Wickert | <wickert@gfz-potsdam.de>         | | no
 James Foster | <jfoster@soest.hawaii.edu>       | | Yes?
 
 # Interested respondents and attendees
@@ -27,5 +27,7 @@ Emre Havazli | <e.havazli@rsmas.miami.edu>        | | yes
 Jim Means | <jim@weatherextreme.com>              | | 
 Paul Rosen | <Paul.A.Rosen@jpl.nasa.gov>          | | morning 1
 Pierre Briole | <briole@ens.fr>                   | abstract received | hope so
-
+Franz Meyer | <fjmeyer@alaska.edu>                | no abstract - agreed to give a presentation | ?
+Stefan Hinz <stefan.hinz@kit.edu> | wanted to send others
+Hook Hua    hook.hua@jpl.nasa.gov  | probably not
 
