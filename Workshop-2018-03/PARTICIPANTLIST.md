@@ -17,7 +17,7 @@ Zhenhong Li | <Zhenhong.Li@ges.gla.ac.uk>       | | Yes?
 Paquita Zuidema | <pzuidema@rsmas.miami.edu>    | | Yes
 David Adams | <dave.k.adams@gmail.com>          | | Yes?
 Giovanni Nico | <g.nico@ba.iac.cnr.it>          | | Yes?
-Jens Wickert | <wickert@gfz-potsdam.de>         | | Yes?
+Jens Wickert | <wickert@gfz-potsdam.de>         | | no
 James Foster | <jfoster@soest.hawaii.edu>       | | Yes?
 
 # Interested respondents and attendees
