@@ -29,5 +29,11 @@ Paul Rosen | <Paul.A.Rosen@jpl.nasa.gov>          | | morning 1
 Pierre Briole | <briole@ens.fr>                   | abstract received | hope so
 Shu-Hua Chen | <shachen@ucdavis.edu>              | abstract forthcoming | yes
 Kazuaki YASUNAGA | <yasunaga@sci.u-toyama.ac.jp>  | can offer CWV science | yes (local)
+Sean Buckley | <buckley@jpl.nasa.gov>             | | not yet (Falk)
+Peng Li       | <pengli@ouc.edu.cn>               | | not yet
+Ye Yun        | <yyhuahuo@hotmail.com>            | | not yet
+Kang Wang     | <kwang@seismo.bekeley.edu>        | | not yet
+Pedro Mateus  | <pjmateus@fc.ul.pt>               | | not yet
+Gert Mulder   | <g.mulder-1@tudelft.nl>           | | not yet
 
 
